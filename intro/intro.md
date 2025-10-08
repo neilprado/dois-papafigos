@@ -1,14 +1,15 @@
-## Entrada de dados, formatação de dados, tipos de dados e variáveis
+# Entrada de dados, formatação de dados, tipos de dados, variáveis e operadores
 
-### Exercícios
+## Exercícios
 
-##### Para todos os exercícios que necessitem de exibir o valor de uma ou mais variáveis, deverá ser usada as f-strings (em Python). Para C#, utilizar a interpolação.
+### Orientações básicas
+#### Para todos os exercícios que necessitem de exibir o valor de uma ou mais variáveis, deverá ser usada as f-strings (em Python). Para C#, utilizar a interpolação.
 
-##### Utilize os tipos de dados corretos para cada questão.
+#### Utilize os tipos de dados corretos para cada questão.
 
-##### Para TODOS os programas que utilizem ponto flutuante, a formatação deverá exibir 2 casas decimais após o ponto.
+#### Para TODOS os programas que utilizem ponto flutuante, a formatação deverá exibir 2 casas decimais após o ponto.
 
-##### Cada papafigo, deve resolver a lista INTEIRA na linguagem que foi especificada na board do projeto.
+#### Cada papafigo, deve resolver a lista INTEIRA na linguagem que foi especificada na board do projeto.
 
 1. Faça um programa que mostre a mensagem _"Hello World!"_ na tela.
 

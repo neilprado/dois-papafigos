@@ -7,8 +7,7 @@
 - Board de estudos: [Projeto](link)
 - Introdução ao Git: [Git](https://hypnotic-aardwolf-6bb.notion.site/Introdu-o-ao-Git-285799df4d0a80d2ae0de32c29a6d45f)
 - Lógica de programação
-  - Entrada de dados, formatação de dados, Tipos de dados e variáveis: [Intro](intro/intro.md)
-  - Operadores: [Operadores](operadores/operadores.md)
+  - Entrada de dados, formatação de dados, Tipos de dados, variáveis e operadores: [Intro](intro/intro.md)
   - Estruturas de decisão: [Estruturas de Decisão](estruturas-decisao/estruturas-decisao.md)
   - Estruturas de repetição: [Estruturas de Repetição](estruturas-repeticao/estruturas-repeticao.md)
   - Vetor Unidimensional: [Vetores](vetores/vetores.md)
