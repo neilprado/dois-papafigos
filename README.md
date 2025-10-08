@@ -4,7 +4,7 @@
 
 ### Índice:
 
-- Board de estudos: [Projeto](link)
+- Board de estudos: [Projeto](https://kicklytics.atlassian.net/jira/software/projects/PAPAFIGOS/boards/101)
 - Introdução ao Git: [Git](https://hypnotic-aardwolf-6bb.notion.site/Introdu-o-ao-Git-285799df4d0a80d2ae0de32c29a6d45f)
 - Lógica de programação
   - Entrada de dados, formatação de dados, Tipos de dados, variáveis e operadores: [Intro](intro/intro.md)
